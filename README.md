@@ -1,10 +1,28 @@
-# backend_node
-Autenticação com Node Js + Mysql com JWT
+# Api em Node JS com JWT + MySql
+
+Api para realização de testes da RgTec
+
+## Download Project
+```bash
+git pull https://github.com/Fernando-Braulio/backend_node.git
+```
+
+#### Install dependencies
+```bash
+npm install
+```
+
+#### Change file "config.json" with data from local database
+#### Start Project
+```bash
+npm start
+# Irá executar no endereço http://localhost:4000
+```
+#### Import the file "RgTec_Api" into Postman or Insomnia
+
+### Last but not least "have a cup of coffee".
 
 
-1 > Baixa o projeto do git.
-2 > npm install
-3 -> muda o arquivo "config.json" com seu banco local
-4 -> npm start
-5 -> Importa o arquivo "RgTec_Api" no Postman ou Insomnia
-6 -> Toma uma xicara de café
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
